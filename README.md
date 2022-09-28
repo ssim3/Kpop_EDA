@@ -14,3 +14,18 @@ I would also love to hear some feedback on my code as I am trying to find ways t
 This Dataset was taken from [Kaggle](https://www.kaggle.com/datasets/kimjihoo/kpopdb). 
 <br>
 All credits go to the creator!
+
+# Additional Facts:
+STAYC is my all time favorite K-pop group :D
+<br>
+Stray Kids is probably my favorite Boy Group
+<br>
+<br>
+Honorable Mentions:
+<ol>
+  <li>NMIXX</li>
+  <li>TWICE</li>
+  <li>TxT</li>
+  <li>Itzy</li>
+  <li>Oh My Girl</li>
+</ol>
