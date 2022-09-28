@@ -1,5 +1,5 @@
 # Korean Pop Exploratory Data Analysis
-
+![stayc](https://github.com/ssim3/Kpop_EDA/blob/main/Untitled-1.jpg)
 # About
 This project is an EDA conducted on the Kpop Industry
 <br>
